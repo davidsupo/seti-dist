@@ -2,25 +2,25 @@
   "name": "SETI TECHNOLOGY",
   "short_name": "SETI",
   "description": "Seguridad electrónica, proyectos e inteligencia artificial.",
-  "start_url": "/seti-web/",
-  "scope": "/seti-web/",
+  "start_url": "/seti-dist/",
+  "scope": "/seti-dist/",
   "display": "standalone",
   "background_color": "#04141f",
   "theme_color": "#0b2748",
   "lang": "es-PE",
   "icons": [
     {
-      "src": "/seti-web/icon-192.png",
+      "src": "/seti-dist/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/seti-web/icon-512.png",
+      "src": "/seti-dist/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/seti-web/icon-maskable-512.png",
+      "src": "/seti-dist/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

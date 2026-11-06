@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /admin/
 
-Sitemap: https://davidsupo.github.io/seti-web/sitemap-index.xml
+Sitemap: https://davidsupo.github.io/seti-dist/sitemap-index.xml
